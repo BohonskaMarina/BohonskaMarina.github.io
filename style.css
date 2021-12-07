@@ -1,0 +1,30 @@
+body{
+	background-color: #cccccc;
+}
+
+h1,h2{
+	text-align:center;
+	text-transform:	uppercase;
+}
+
+p{
+	background-color:rgb(128,128,128);
+	color: #ffffff;
+	margin-top: 29px;
+	
+	padding-top: 29px;
+	padding-right: 52px;
+	padding-left: 52px;
+	padding-bottom: 43px;
+	
+	/*padding: 29px, 52px, 43px, 52px;	*/
+	
+	font-size:18px;
+	font-weight: 400;
+	text-align: justify;
+}
+
+.container{
+	width: 70%;
+	margin: 0 auto 0 auto;
+}
